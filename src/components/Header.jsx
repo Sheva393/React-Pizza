@@ -26,7 +26,7 @@ function Header() {
 
           <Link to='/cart'>
             <Button className='button--cart'>
-              <span>{totalPrice}</span>
+              <span>{totalPrice} Р</span>
               <div className="button__delimiter"></div>
               <svg
                 width="18"

@@ -60,6 +60,7 @@ function Cart() {
                             <div className="content__items">
                                 {
                                     addedPizzas.map(obj => <CartItem
+                                       
                                         id={obj.id}
                                         name={obj.name}
                                         type={obj.type}

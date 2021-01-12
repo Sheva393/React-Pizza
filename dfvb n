@@ -1,0 +1,126 @@
+[33mcommit 23370c8c9ecee8496a5e614993756b472a60030f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 8b8e61f 5cbc10c
+Author: unknown <Sheva961gmail.com>
+Date:   Thu Jan 7 17:16:19 2021 +0300
+
+    Merge branch 'master' of https://github.com/Sheva393/React-Pizza
+
+[33mcommit 8b8e61f5e5eef366c364087d54d493e1b8b63098[m
+Author: unknown <Sheva961gmail.com>
+Date:   Thu Jan 7 17:15:38 2021 +0300
+
+    deploy
+
+[33mcommit 959c08ff26edabb0a634932530456d15a669d767[m
+Author: unknown <Sheva961gmail.com>
+Date:   Thu Jan 7 17:13:02 2021 +0300
+
+    deploy
+
+[33mcommit 5cbc10c6f82f5c882344c51e489ba013dfea82ef[m
+Author: unknown <Sheva961gmail.com>
+Date:   Thu Jan 7 16:46:58 2021 +0300
+
+    deployagain1
+
+[33mcommit 51b4916c179b486040a62050a9d5e07e6bf37e02[m
+Author: unknown <Sheva961gmail.com>
+Date:   Thu Jan 7 16:41:45 2021 +0300
+
+    deployagain
+
+[33mcommit 8dd69caecbfdfa40563837abc8dc2ffeb2f5d94a[m
+Author: unknown <Sheva961gmail.com>
+Date:   Thu Dec 31 04:47:05 2020 +0300
+
+    deploy
+
+[33mcommit ebde5fc67dde01b3c89bdd79d062abf7d642d1f7[m
+Author: unknown <Sheva961gmail.com>
+Date:   Thu Dec 31 04:42:42 2020 +0300
+
+    Add
+
+[33mcommit 675418dfce0e6bec096d128eb11dc8795c487578[m
+Author: unknown <Sheva961gmail.com>
+Date:   Thu Dec 31 01:11:08 2020 +0300
+
+    finish
+
+[33mcommit cfcf39ba83815f29b4459b9169acf8f3adb3c5fa[m
+Author: unknown <Sheva961gmail.com>
+Date:   Mon Dec 28 03:02:39 2020 +0300
+
+    updateCart
+
+[33mcommit 89d2bc18302005b77659169e66fdc9ac596e08ab[m
+Author: unknown <Sheva961gmail.com>
+Date:   Sun Dec 27 17:03:56 2020 +0300
+
+    addCartFeatures
+
+[33mcommit 3315d3b71d9bfe860f09fbf918def7624c769d4f[m
+Author: unknown <Sheva961gmail.com>
+Date:   Sun Dec 27 17:02:57 2020 +0300
+
+    addCartFeatures
+
+[33mcommit 215e09138d65422ad6dc8dca5925856b3521f138[m
+Author: unknown <Sheva961gmail.com>
+Date:   Sat Dec 26 03:56:10 2020 +0300
+
+    addcart
+
+[33mcommit acbdeb376f53237a0ca22b9b0c50ec96181decf8[m
+Author: Sheva393 <sheva961@gmail.com>
+Date:   Sat Dec 12 19:13:16 2020 +0300
+
+    addSort
+
+[33mcommit f641f4e357a7cb3784e2e21e92f6b8d17a8738fc[m
+Author: Sheva393 <sheva961@gmail.com>
+Date:   Wed Dec 2 00:09:12 2020 +0300
+
+    addreactredx
+
+[33mcommit d44f1961f10e2e40371c6bf74913dcfceca99dc4[m
+Author: Sheva393 <sheva961@gmail.com>
+Date:   Thu Nov 26 02:25:41 2020 +0300
+
+    addredux
+
+[33mcommit 87e84c0db82b2c10a812f26810bc7c50199c0310[m
+Author: Sheva393 <sheva961@gmail.com>
+Date:   Wed Nov 18 03:47:56 2020 +0300
+
+    123
+
+[33mcommit 569773025eb03209d58f045dc734b875146bcea8[m
+Author: Sheva393 <Sheva961@gmail.com>
+Date:   Thu Nov 5 03:47:14 2020 +0300
+
+    addRoute
+
+[33mcommit 6d1705c705eed7523d20c7532cd526a396659841[m
+Author: Sheva393 <Sheva961@gmail.com>
+Date:   Sun Nov 1 20:13:56 2020 +0300
+
+    addcategories
+
+[33mcommit 3740799ee62cc2f81e52c762647c52f5d4dcb822[m
+Author: Sheva393 <Sheva961@gmail.com>
+Date:   Sun Nov 1 03:31:36 2020 +0300
+
+    newcomponents
+
+[33mcommit 907fa45a15c73df19589913ca0d0edccd5bcd118[m
+Author: Sheva393 <Sheva961@gmail.com>
+Date:   Sat Oct 31 02:41:29 2020 +0300
+
+    layout
+
+[33mcommit 2f9df9942c5b3bc5dbaaa2aa129b80a1c3e63025[m
+Author: Sheva393 <Sheva961@gmail.com>
+Date:   Fri Oct 30 02:24:22 2020 +0300
+
+    first commit
